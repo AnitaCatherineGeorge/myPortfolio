@@ -12,3 +12,7 @@
 - Blended and transformed raw data into insightful-dynamic interactive dashboards.
 - Realised and tracked various KPIs pertaining to sales, revenue, profit and returns.
  - Compared the regional performance , analysed product-level trends and forecasts and identified high-value customers.
+#### [SMS Spam Analysis - Classification & NLP](https://github.com/AnitaCatherineGeorge/Natural-language-processing/tree/main/SMS%20Spam%20Collection)
+- Extracted data from UCI and stored in CSV - Scraping
+- Analyzed and built a model for SPAM/HAM analysis
+- Used ML Classification algorithms like Naive Bayes & Random Forest, NLP.
