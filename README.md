@@ -1,4 +1,4 @@
-# myPortfolio
+# MyPortfolio
 ## Anita Catherine George
 ###### Data Science | Machine Learning | Artificial Intelligence 
 ### Projects
