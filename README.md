@@ -16,3 +16,6 @@
 - Extracted data from UCI and stored in CSV - Scraping
 - Analyzed and built a model for SPAM/HAM analysis
 - Used ML Classification algorithms like Naive Bayes & Random Forest, NLP.
+#### [Absenteesm at Work](https://github.com/AnitaCatherineGeorge/Data-Capstone-Project-)
+- Exploratory data analysis to understand the cause of absenteesm.
+- Data Wrangling to remove redundant information.
