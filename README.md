@@ -16,6 +16,12 @@
 - Extracted data from UCI and stored in CSV - Scraping
 - Analyzed and built a model for SPAM/HAM analysis
 - Used ML Classification algorithms like Naive Bayes & Random Forest, NLP.
-#### [Absenteesm at Work](https://github.com/AnitaCatherineGeorge/Data-Capstone-Project-)
+#### [Absenteesm at Work](https://github.com/AnitaCatherineGeorge/Data-Capstone-Project-/tree/main/Absenteesm_at_Work)
 - Exploratory data analysis to understand the cause of absenteesm.
 - Data Wrangling to remove redundant information.
+- Visualised which section of employees took more absence.
+#### [Bank Marketing Term Prediction](https://github.com/AnitaCatherineGeorge/Machine-Learning---Classification/tree/main/Bank%20Marketing%20Term%20Prediction)
+- Predicted the probability of clients subscribing to term deposit.
+- Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
+- Compared the performance of Logistics Regression, KNN, Random Forest & SVC.
+- Used TPOT to automate and find the best classifier model.
