@@ -29,3 +29,7 @@
 - Predicted price with variance in year, mileage, engine etc.
 - Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
 - Used TPOT to automate and find the best regressor model.
+#### [Ecommerce Marketing Prediction - Regression](https://github.com/AnitaCatherineGeorge/Machine-Learning---Regression/tree/main/Ecommerce%20Marketing%20-%20Regression)
+- Derived at a decision on whether to focus the efforts on company's mobile app experience or their website.
+- Performed EDA, Data Visualisation etc.
+- Used Linear Regression and evaluated the model performance by MAE, MSE and RMSE.
