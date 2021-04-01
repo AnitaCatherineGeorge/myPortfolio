@@ -25,3 +25,7 @@
 - Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
 - Compared the performance of Logistics Regression, KNN, Random Forest & SVC.
 - Used TPOT to automate and find the best classifier model.
+#### [Used Car Price Prediction - Regression](https://github.com/AnitaCatherineGeorge/Machine-Learning---Regression/tree/main/Used%20Car%20Price%20Prediction)
+- Predicted price with variance in year, mileage, engine etc.
+- Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
+- Used TPOT to automate and find the best regressor model.
