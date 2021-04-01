@@ -20,7 +20,7 @@
 - Exploratory data analysis to understand the cause of absenteesm.
 - Data Wrangling to remove redundant information.
 - Visualised which section of employees took more absence.
-#### [Bank Marketing Term Prediction](https://github.com/AnitaCatherineGeorge/Machine-Learning---Classification/tree/main/Bank%20Marketing%20Term%20Prediction)
+#### [Bank Marketing Term Prediction - Classification](https://github.com/AnitaCatherineGeorge/Machine-Learning---Classification/tree/main/Bank%20Marketing%20Term%20Prediction)
 - Predicted the probability of clients subscribing to term deposit.
 - Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
 - Compared the performance of Logistics Regression, KNN, Random Forest & SVC.
