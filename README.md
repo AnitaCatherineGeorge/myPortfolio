@@ -20,6 +20,13 @@
 - Exploratory data analysis to understand the cause of absenteesm.
 - Data Wrangling to remove redundant information.
 -  Visualised which section of employees took the most absence.
+#### [Score Percentage Prediction (Simple Linear Regression)](https://github.com/AnitaCatherineGeorge/The-Spark-Foundation_-GRIPAPRIL-Tasks/tree/main/Mark_Percentage_Prediction)
+- Import Libraries and read data from http://bit.ly/w-data .
+- Explored and visualised the data.
+- Looked for any correlation.
+- Used lm() for creating a linear model and predicted the score using the model.
+- Visualised the Trainset and Testset data.
+-  Visualised which section of employees took the most absence.
 #### [Bank Marketing Term Prediction - Classification](https://github.com/AnitaCatherineGeorge/Machine-Learning---Classification/tree/main/Bank%20Marketing%20Term%20Prediction)
 - Predicted the probability of clients subscribing to term deposit.
 - Performed EDA, Data Wrangling, Outlier Detection, Feature Engineering, etc.
